@@ -13,9 +13,9 @@
 A consumer finance company specializing in lending various types of loans to urban customers. The company must make loan approval decisions based on applicant profiles. 
 
 Key Tasks:
-Conduct EDA to understand factors influencing loan default.
-Identify variables that strongly indicate loan default.
-Use insights to reduce credit losses by targeting risky loan applicants.
+- Conduct EDA to understand factors influencing loan default.
+- Identify variables that strongly indicate loan default.
+- Use insights to reduce credit losses by targeting risky loan applicants.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
