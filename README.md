@@ -1,52 +1,46 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case Study
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+A consumer finance company specializing in lending various types of loans to urban customers. The company must make loan approval decisions based on applicant profiles. 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Key Tasks:
+Conduct EDA to understand factors influencing loan default.
+Identify variables that strongly indicate loan default.
+Use insights to reduce credit losses by targeting risky loan applicants.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy
+- Pandas
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## Conclusions
+-  Conclusion 1 : The observation that 60-month term loans have a higher default rate compared to 36-month term loans 
+                  aligns with common industry knowledge. Longer loan terms are often associated with increased risk, 
+                  as they allow for smaller monthly payments but can result in a higher overall interest cost. This finding 
+                  highlights the importance of considering loan term in assessing default risk.
 
+- Conclusion 2 : Noting that verified loans have a higher default rate compared to non-verified and source-verified loans
+                 highlights the importance of income verification in the lending process. Loans that are not verified or
+                 source-verified might be less risky due to the rigorous income verification process associated with 
+                 "Verified" loans.
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+- Conclusion 3 : Borrowers who take on substantial loans may face more significant financial challenges in repaying them,
+                 especially if their business operations or financial stability are uncertain. This can lead to a higher 
+                 likelihood of default.
 
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
