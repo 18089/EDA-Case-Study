@@ -24,6 +24,7 @@ Use insights to reduce credit losses by targeting risky loan applicants.
 - Numpy
 - Pandas
 - Seaborn
+- matplotlib
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
